@@ -40,5 +40,3 @@ This project is open source under the MIT Licens
 Do you want me to tailor it toward a **specific brand style** (e.g., Razorpay clone, fintech startup UI, or minimalist dark design)? I can rewrite the README and color references to match that exact aesthetic.
 
 
-## 📁 Project Structure
-
