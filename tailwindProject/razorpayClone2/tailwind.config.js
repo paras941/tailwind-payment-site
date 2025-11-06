@@ -1,6 +1,7 @@
-/** @type {import('tailwindcss').Config} */
+// @type {import('tailwindcss').Config}
 module.exports = {
-  content: ["*"],
+  content: ["./tailwindProject/**/*.{html,js}"],
+
   theme: {
     extend: {
       fontFamily: {
@@ -17,7 +18,24 @@ module.exports = {
         grayBlue: "#344a6c",
         deepBlueHead: "#162f56",
         gray2: "#525a76",
-      },},
+      },
+      keyframes: {
+        'fade-in-up': {
+          '0%': {
+            opacity: '0',
+            transform: 'translateY(20px)'
+          },
+          '100%': {
+            opacity: '1',
+            transform: 'translateY(0)'
+          },
+        }
+      },
+      animation: {
+        'fade-in-up': 'fade-in-up 0.5s ease-out' 
+      }
+     
+    },
   },
   plugins: [],
 }
