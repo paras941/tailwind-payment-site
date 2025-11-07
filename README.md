@@ -10,7 +10,7 @@ Designed to mimic real-world payment portals like Razorpay and Stripe, this proj
 - ⚡ **Fully responsive** — works perfectly on mobile, tablet, and desktop.  
 - 🎨 **Built 100% with Tailwind CSS** (no external CSS files).  
 - 💰 **Payment flow UI** — homepage, plans, checkout, and success page.
-- 🌙 **Light / dark color palette ready**  
+- 🌙 **Light / dark color palette ready**.
 - 🧱 **Reusable components** — cards, buttons, navbar, modals, etc.  
 - 💡 **Modern layout** — flex, grid, gradients, and glassmorphism effects.
 
